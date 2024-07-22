@@ -22,7 +22,7 @@ Hello! I'm a young aspiring bioinformatic scientist who just graduated with an M
 Feel free to reach out to me if you want to collaborate on a project or just want to chat about bioinformatics, plant science, or any of my other interests!
 
 - **Email**: jaredweaverb@gmail.com 📧
-- [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white] (https://www.linkedin.com/in/jared-bweaver)
+- [![LinkedIn][https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/jared-bweaver)
 
 
 
