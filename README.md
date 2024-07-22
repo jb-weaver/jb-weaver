@@ -23,8 +23,8 @@ Hello! I'm a young aspiring bioinformatic scientist who just graduated with an M
 
 Feel free to reach out to me if you want to collaborate on a project or just want to chat about bioinformatics, plant science, or any of my other interests!
 
-- **Email**: your.email@example.com 📧
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) 🔗
+- **Email**: jaredweaverb@gmail.com 📧
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jared-bweaver) 🔗
 
 ## Goals
 
