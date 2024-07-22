@@ -13,7 +13,7 @@ Hello! I'm a young aspiring bioinformatic scientist who just graduated with an M
 
 ## Skills
 
-- Programming Languages: Python, R, SQL 🐍📊
+- Programming Languages: Python, R, Bash 🐍📊
 - Tools and Technologies: Bioinformatics tools, Data analysis software, Machine learning libraries 🛠️
 - Soft Skills: Problem-solving, Critical thinking, Communication 💡🗣️
 
